@@ -13,6 +13,10 @@ https://ritik98.github.io/ExpenseTracker/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Downloading code snapshots
+
+You can download all the content of a branch via the "Code" button here on Github. You can then either clone the repository or simply download the selected branch content as a ZIP file.
+
 ## How to run on Local Machine
 
 1. First Download the code or clone the repository 
