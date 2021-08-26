@@ -9,11 +9,11 @@ We can also add new Expense , and after adding new Expense , it updates the inte
 https://ritik98.github.io/ExpenseTracker/
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Downloading code snapshots
+## Downloading code snapshots
 
 You can download all the content of a branch via the "Code" button here on Github. You can then either clone the repository or simply download the selected branch content as a ZIP file.
 
